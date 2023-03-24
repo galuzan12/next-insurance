@@ -1,4 +1,4 @@
-# next-insurance assignment
+# Next-Insurance Assignment
 
 ## Installation
 
