@@ -14,7 +14,7 @@ export const MovieModalContainer = styled.div`
   overflow-x: hidden;
   @media (min-width: 768px) {
     width: 71vw;
-    padding: 3.125rem 8.6875rem;
+    padding: 3.125rem 10%;
     height: 62vh;
     justify-content: space-between;
     flex-wrap: nowrap;
