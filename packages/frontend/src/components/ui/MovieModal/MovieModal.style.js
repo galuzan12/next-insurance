@@ -34,8 +34,9 @@ export const MovieImage = styled.img`
   width: 100%;
   height: auto;
   min-width: 15.625rem;
-  @media (min-width: 768px) {
-    width: 24.875rem;
+  @media (min-width: 1200px) {
+    width: auto;
+    height: calc(62vh - 6.25rem);
   }
 `;
 

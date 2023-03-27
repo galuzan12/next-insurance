@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import {  isMobile } from 'react-device-detect';
+import {isMobile} from 'react-device-detect';
 
 import {ReactComponent as ArrowRightIcon} from '../../../assests/arrow-right.svg';
 import {useTranslations} from '../../../hooks/useTranslations';
@@ -23,7 +23,11 @@ const MovieCard = ({movie, onClick}) => {
         {movie.rating && <Rating rating={movie.rating} />}
         <Button
           text={t.cardButtonTxt}
-          iconRight={<ArrowRightIcon style={{width: isMobile ? '1.25rem' : '1.5625rem'}}/>}
+          iconRight={
+            <ArrowRightIcon
+              style={{width: isMobile ? '1.25rem' : '1.5625rem'}}
+            />
+          }
           onClick={onClick}
         />
       </S.BottomCard>
