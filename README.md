@@ -1,5 +1,7 @@
 # Next-Insurance Assignment
 
+Yarn is required
+
 ## Installation
 
 1. Clone/Download the repository
