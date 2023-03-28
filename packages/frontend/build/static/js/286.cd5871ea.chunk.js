@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[286],{286:function(e,n,f){e.exports=f.p+"static/media/next-icon.661ff1c2fc08d82ebf41.svg"}}]);

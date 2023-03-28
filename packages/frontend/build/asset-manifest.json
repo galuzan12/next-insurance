@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7648345e.css",
+    "main.js": "/static/js/main.dbed2d37.js",
+    "static/js/173.8ae42dcd.chunk.js": "/static/js/173.8ae42dcd.chunk.js",
+    "static/js/390.780ac737.chunk.js": "/static/js/390.780ac737.chunk.js",
+    "static/js/357.afa8e13c.chunk.js": "/static/js/357.afa8e13c.chunk.js",
+    "static/js/365.c8dac41f.chunk.js": "/static/js/365.c8dac41f.chunk.js",
+    "static/js/274.bfddc436.chunk.js": "/static/js/274.bfddc436.chunk.js",
+    "static/js/785.d400668b.chunk.js": "/static/js/785.d400668b.chunk.js",
+    "static/js/286.cd5871ea.chunk.js": "/static/js/286.cd5871ea.chunk.js",
+    "static/js/138.139b5c4a.chunk.js": "/static/js/138.139b5c4a.chunk.js",
+    "static/js/169.7e32d044.chunk.js": "/static/js/169.7e32d044.chunk.js",
+    "static/js/618.85239599.chunk.js": "/static/js/618.85239599.chunk.js",
+    "static/js/798.51e29045.chunk.js": "/static/js/798.51e29045.chunk.js",
+    "static/media/next-movies.png": "/static/media/next-movies.df7f98920ab84cdf7493.png",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.919ca059b1a0156c84e7.svg",
+    "static/media/youtube-icon.svg": "/static/media/youtube-icon.5a087aed6e609e8711ec.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.3cef6f5e60e87ed3216f.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.40f9dc6cee165cae866f.svg",
+    "static/media/next-icon.svg": "/static/media/next-icon.661ff1c2fc08d82ebf4133e7f8dbe2d0.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.26c00709772f6e0b0556.svg",
+    "static/media/star.svg": "/static/media/star.c21275a902729385db3fa50ce9882482.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.509f0aa68c13e3fee92efe559e459e42.svg",
+    "static/media/arrow.svg": "/static/media/arrow.509f0aa68c13e3fee92e.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.4deebdb2a9d98c21c3d5ae82fdaab284.svg"
+  },
+  "entrypoints": [
+    "static/css/main.7648345e.css",
+    "static/js/main.dbed2d37.js"
+  ]
+}

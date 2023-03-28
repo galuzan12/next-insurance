@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[138],{138:function(e,s,t){e.exports=t.p+"static/media/star.c21275a902729385db3f.svg"}}]);

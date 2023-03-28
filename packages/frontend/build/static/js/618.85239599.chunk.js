@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[618],{618:function(e,n,t){e.exports=t.p+"static/media/youtube-icon.5a087aed6e609e8711ec.svg"}}]);

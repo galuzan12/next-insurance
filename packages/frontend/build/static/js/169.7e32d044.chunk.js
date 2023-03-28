@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[169],{169:function(e,t,n){e.exports=n.p+"static/media/twitter-icon.3cef6f5e60e87ed3216f.svg"}}]);

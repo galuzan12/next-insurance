@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[274],{274:function(e,n,s){e.exports=s.p+"static/media/instagram-icon.919ca059b1a0156c84e7.svg"}}]);
